@@ -1,4 +1,3 @@
-from time import strptime
 from datetime import datetime
 import pytz
 
@@ -9,11 +8,11 @@ class Printer:
         self.signal = signal
         self.lcd_message = lcd_message
         self.status = status
-        self.tray_status = tray_status
+        self.tray_statuses = tray_status.split()
         self.as_of = as_of
 
         self.color = "Color" in name
-
+    
     def time_diff(self):
         us_east = pytz.timezone("US/Eastern")
         now = datetime.now().astimezone()
