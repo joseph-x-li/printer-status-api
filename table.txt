@@ -1,0 +1,861 @@
+[<tr>
+<td valign="top">
+<table class="epi-dataTable">
+<tr>
+<th scope="col">Printer</th>
+<th scope="col"> </th>
+<th scope="col">LCD Message</th>
+<th scope="col">Status</th>
+<th scope="col">Tray Status</th>
+<th scope="col">As Of</th>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer35Name">CEE - B&amp;W 1 - Porter Hall 118A</td>
+<td class="printer_stoplight" id="Printer35Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer35StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer35DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer35Status"></td>
+<td class="printer_tray_status" id="Printer35TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer35Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer35DataTimestamp">9:48:18 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer36Name">CEE - Color 1 - Porter Hall 118A</td>
+<td class="printer_stoplight" id="Printer36Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer36StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer36DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer36Status"></td>
+<td class="printer_tray_status" id="Printer36TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer36Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer36DataTimestamp">9:52:03 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer37Name">CEE - B&amp;W 2 - Porter Hall A7</td>
+<td class="printer_stoplight" id="Printer37Stoplight"><img alt="YELLOW" class="STOPLIGHT_YELLOW" id="Printer37StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/yield.gif"/></td>
+<td class="printer_LCD_text" id="Printer37DisplayText">Maintenance Kit very low</td>
+<td class="printer_status capitalize" id="Printer37Status">ready to print</td>
+<td class="printer_tray_status" id="Printer37TrayStatus"><span class="TRAY_STATUS_OK" id="Printer37Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer37Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer37DataTimestamp">9:52:04 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer38Name">CEE - Color 2 - Porter Hall A7</td>
+<td class="printer_stoplight" id="Printer38Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer38StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer38DisplayText">59.F0 ERROR</td>
+<td class="printer_status capitalize" id="Printer38Status">ready to print</td>
+<td class="printer_tray_status" id="Printer38TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer38Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer38Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer38DataTimestamp">9:52:04 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer39Name">CEE - B&amp;W 3 - Wean Hall 3503</td>
+<td class="printer_stoplight" id="Printer39Stoplight"><img alt="YELLOW" class="STOPLIGHT_YELLOW" id="Printer39StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/yield.gif"/></td>
+<td class="printer_LCD_text" id="Printer39DisplayText">Black Cartridge low</td>
+<td class="printer_status capitalize" id="Printer39Status">toner/ink low</td>
+<td class="printer_tray_status" id="Printer39TrayStatus"><span class="TRAY_STATUS_OK" id="Printer39Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer39Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer39DataTimestamp">9:52:04 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer40Name">CEE -  Color 3 - Wean Hall 3503</td>
+<td class="printer_stoplight" id="Printer40Stoplight"><img alt="YELLOW" class="STOPLIGHT_YELLOW" id="Printer40StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/yield.gif"/></td>
+<td class="printer_LCD_text" id="Printer40DisplayText">TRAY 3 EMPTY</td>
+<td class="printer_status capitalize" id="Printer40Status">ready to print</td>
+<td class="printer_tray_status" id="Printer40TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer40Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer40Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer40DataTimestamp">9:52:04 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer32Name">ChemE - B&amp;W - Doherty 1270</td>
+<td class="printer_stoplight" id="Printer32Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer32StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer32DisplayText">Error with Job (???024?????????966???)</td>
+<td class="printer_status capitalize" id="Printer32Status"></td>
+<td class="printer_tray_status" id="Printer32TrayStatus"><span class="TRAY_STATUS_OK" id="Printer32Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer32Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer32Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer32Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer32DataTimestamp">9:44:47 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer7Name">Computer Labs - Baker 2 B&amp;W</td>
+<td class="printer_stoplight" id="Printer7Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer7StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer7DisplayText"></td>
+<td class="printer_status capitalize" id="Printer7Status"></td>
+<td class="printer_tray_status" id="Printer7TrayStatus"><span class="TRAY_STATUS_OK" id="Printer7Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer7Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer7Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer7Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer7DataTimestamp">9:44:48 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer8Name">Computer Labs - CFA B&amp;W</td>
+<td class="printer_stoplight" id="Printer8Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer8StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer8DisplayText"></td>
+<td class="printer_status capitalize" id="Printer8Status"></td>
+<td class="printer_tray_status" id="Printer8TrayStatus"><span class="TRAY_STATUS_OK" id="Printer8Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer8Tray3Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer8Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer8Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer8DataTimestamp">9:44:48 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer17Name">Computer Labs - CFA Color</td>
+<td class="printer_stoplight" id="Printer17Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer17StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer17DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer17Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer17TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer17Tray2Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer17Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer17Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer17Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer17DataTimestamp">9:46:14 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer10Name">Computer Labs - Cyert B&amp;W</td>
+<td class="printer_stoplight" id="Printer10Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer10StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer10DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer10Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer10TrayStatus"><span class="TRAY_STATUS_OK" id="Printer10Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer10Tray3Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer10Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer10Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer10DataTimestamp">9:44:48 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer11Name">Computer Labs - Morewood B&amp;W</td>
+<td class="printer_stoplight" id="Printer11Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer11StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer11DisplayText"></td>
+<td class="printer_status capitalize" id="Printer11Status"></td>
+<td class="printer_tray_status" id="Printer11TrayStatus"><span class="TRAY_STATUS_OK" id="Printer11Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer11Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer11Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer11Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer11DataTimestamp">9:44:49 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer12Name">Computer Labs - UC 1 B&amp;W</td>
+<td class="printer_stoplight" id="Printer12Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer12StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer12DisplayText"></td>
+<td class="printer_status capitalize" id="Printer12Status"></td>
+<td class="printer_tray_status" id="Printer12TrayStatus"><span class="TRAY_STATUS_OK" id="Printer12Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer12Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer12Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer12DataTimestamp">9:44:50 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer13Name">Computer Labs - UC 2 B&amp;W</td>
+<td class="printer_stoplight" id="Printer13Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer13StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer13DisplayText"></td>
+<td class="printer_status capitalize" id="Printer13Status"></td>
+<td class="printer_tray_status" id="Printer13TrayStatus"><span class="TRAY_STATUS_OK" id="Printer13Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer13Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer13Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer13Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer13DataTimestamp">9:44:50 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer14Name">Computer Labs - Wean B&amp;W</td>
+<td class="printer_stoplight" id="Printer14Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer14StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer14DisplayText"></td>
+<td class="printer_status capitalize" id="Printer14Status"></td>
+<td class="printer_tray_status" id="Printer14TrayStatus"><span class="TRAY_STATUS_OK" id="Printer14Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer14Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer14Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer14Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer14DataTimestamp">9:44:50 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer15Name">Computer Labs - Wean Color</td>
+<td class="printer_stoplight" id="Printer15Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer15StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer15DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer15Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer15TrayStatus"><span class="TRAY_STATUS_OK" id="Printer15Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer15Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer15Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer15Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer15DataTimestamp">9:44:50 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer16Name">Computer Labs - West Wing B&amp;W</td>
+<td class="printer_stoplight" id="Printer16Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer16StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer16DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer16Status"></td>
+<td class="printer_tray_status" id="Printer16TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer16Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer16DataTimestamp">9:46:14 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer41Name">ECE - B&amp;W 1 - Hamerschlag Hall A104</td>
+<td class="printer_stoplight" id="Printer41Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer41StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer41DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer41Status">ready to print</td>
+<td class="printer_tray_status" id="Printer41TrayStatus"><span class="TRAY_STATUS_OK" id="Printer41Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer41Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer41DataTimestamp">9:52:04 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer42Name">ECE - B&amp;W 2 - Hamerschlag Hall A101</td>
+<td class="printer_stoplight" id="Printer42Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer42StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer42DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer42Status">ready to print</td>
+<td class="printer_tray_status" id="Printer42TrayStatus"><span class="TRAY_STATUS_OK" id="Printer42Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer42Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer42DataTimestamp">9:52:04 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer43Name">ECE - B&amp;W 3 - Hamerschlag Hall 1303</td>
+<td class="printer_stoplight" id="Printer43Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer43StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer43DisplayText">Resend</td>
+<td class="printer_status capitalize" id="Printer43Status">ready to print</td>
+<td class="printer_tray_status" id="Printer43TrayStatus"><span class="TRAY_STATUS_OK" id="Printer43Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer43Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer43DataTimestamp">9:52:05 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer44Name">ECE - B&amp;W 4 - Hamerschlag Hall 1310</td>
+<td class="printer_stoplight" id="Printer44Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer44StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer44DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer44Status">ready to print</td>
+<td class="printer_tray_status" id="Printer44TrayStatus"><span class="TRAY_STATUS_OK" id="Printer44Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer44Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer44Tray4Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer44DataTimestamp">9:52:05 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer54Name">ECE - B&amp;W 5 - Masters Lounge in Porter Hall</td>
+<td class="printer_stoplight" id="Printer54Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer54StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer54DisplayText">Sleep mode on</td>
+<td class="printer_status capitalize" id="Printer54Status">ready to print</td>
+<td class="printer_tray_status" id="Printer54TrayStatus"><span class="TRAY_STATUS_OK" id="Printer54Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer54Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer54DataTimestamp">9:51:23 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer55Name">ECE - B&amp;W 6 - Porter Hall B-Level</td>
+<td class="printer_stoplight" id="Printer55Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer55StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer55DisplayText">Sleep mode on</td>
+<td class="printer_status capitalize" id="Printer55Status">ready to print</td>
+<td class="printer_tray_status" id="Printer55TrayStatus"><span class="TRAY_STATUS_OK" id="Printer55Tray2Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer55DataTimestamp">9:51:23 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer56Name">ECE - Color 6 - Porter Hall B-Level</td>
+<td class="printer_stoplight" id="Printer56Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer56StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer56DisplayText">Depleted</td>
+<td class="printer_status capitalize" id="Printer56Status"></td>
+<td class="printer_tray_status" id="Printer56TrayStatus"><span class="TRAY_STATUS_OK" id="Printer56Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer56Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer56DataTimestamp">9:50:01 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer46Name">Heinz - B&amp;W 1 - Hamburg Hall A200</td>
+<td class="printer_stoplight" id="Printer46Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer46StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer46DisplayText"></td>
+<td class="printer_status capitalize" id="Printer46Status"></td>
+<td class="printer_tray_status" id="Printer46TrayStatus"><span class="TRAY_STATUS_OK" id="Printer46Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer46Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer46Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer46DataTimestamp">9:52:05 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer47Name">Heinz - B&amp;W 2 - Hamburg Hall A002A</td>
+<td class="printer_stoplight" id="Printer47Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer47StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer47DisplayText"></td>
+<td class="printer_status capitalize" id="Printer47Status"></td>
+<td class="printer_tray_status" id="Printer47TrayStatus"><span class="TRAY_STATUS_OK" id="Printer47Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer47Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer47Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer47DataTimestamp">9:52:05 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer48Name">Heinz - B&amp;W 3 - Hamburg Hall A102</td>
+<td class="printer_stoplight" id="Printer48Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer48StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer48DisplayText"></td>
+<td class="printer_status capitalize" id="Printer48Status"></td>
+<td class="printer_tray_status" id="Printer48TrayStatus"><span class="TRAY_STATUS_OK" id="Printer48Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer48Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer48Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer48DataTimestamp">9:52:06 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer49Name">Heinz - B&amp;W 4 - Hamburg Hall 2004</td>
+<td class="printer_stoplight" id="Printer49Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer49StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer49DisplayText"></td>
+<td class="printer_status capitalize" id="Printer49Status"></td>
+<td class="printer_tray_status" id="Printer49TrayStatus"><span class="TRAY_STATUS_OK" id="Printer49Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer49Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer49Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer49DataTimestamp">9:52:06 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer1Name">Housing - Donner B&amp;W</td>
+<td class="printer_stoplight" id="Printer1Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer1StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer1DisplayText"></td>
+<td class="printer_status capitalize" id="Printer1Status"></td>
+<td class="printer_tray_status" id="Printer1TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer1Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer1Tray3Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer1Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer1Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer1DataTimestamp">9:44:50 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer2Name">Housing - Mudge B&amp;W</td>
+<td class="printer_stoplight" id="Printer2Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer2StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer2DisplayText"></td>
+<td class="printer_status capitalize" id="Printer2Status"></td>
+<td class="printer_tray_status" id="Printer2TrayStatus"><span class="TRAY_STATUS_OK" id="Printer2Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer2Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer2Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer2Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer2DataTimestamp">9:44:51 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer3Name">Housing - Res5 B&amp;W</td>
+<td class="printer_stoplight" id="Printer3Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer3StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer3DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer3Status"></td>
+<td class="printer_tray_status" id="Printer3TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer3Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer3DataTimestamp">9:45:32 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer4Name">Housing - The Hill B&amp;W</td>
+<td class="printer_stoplight" id="Printer4Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer4StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer4DisplayText"></td>
+<td class="printer_status capitalize" id="Printer4Status"></td>
+<td class="printer_tray_status" id="Printer4TrayStatus"><span class="TRAY_STATUS_OK" id="Printer4Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer4Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer4Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer4Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer4DataTimestamp">9:47:36 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer45Name">INI - B&amp;W 1 - INI Second Floor</td>
+<td class="printer_stoplight" id="Printer45Stoplight"><img alt="YELLOW" class="STOPLIGHT_YELLOW" id="Printer45StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/yield.gif"/></td>
+<td class="printer_LCD_text" id="Printer45DisplayText">Sleep mode on</td>
+<td class="printer_status capitalize" id="Printer45Status">paper out</td>
+<td class="printer_tray_status" id="Printer45TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer45Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer45Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer45DataTimestamp">9:52:05 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer31Name">INI - B&amp;W 2 - INI A-Level</td>
+<td class="printer_stoplight" id="Printer31Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer31StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer31DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer31Status">ready to print</td>
+<td class="printer_tray_status" id="Printer31TrayStatus"><span class="TRAY_STATUS_OK" id="Printer31Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer31Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer31DataTimestamp">9:44:47 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer29Name">INI - B&amp;W B - INI A-Level</td>
+<td class="printer_stoplight" id="Printer29Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer29StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer29DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer29Status">offline or intervention needed</td>
+<td class="printer_tray_status" id="Printer29TrayStatus"><span class="TRAY_STATUS_OK" id="Printer29Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer29Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer29DataTimestamp">9:44:47 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer18Name">Library - Hunt 1 Ref 1 Color</td>
+<td class="printer_stoplight" id="Printer18Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer18StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer18DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer18Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer18TrayStatus"><span class="TRAY_STATUS_OK" id="Printer18Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer18Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer18Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer18Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer18DataTimestamp">9:46:14 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer19Name">Library - Hunt 1 Ref 4 B&amp;W</td>
+<td class="printer_stoplight" id="Printer19Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer19StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer19DisplayText"></td>
+<td class="printer_status capitalize" id="Printer19Status"></td>
+<td class="printer_tray_status" id="Printer19TrayStatus"><span class="TRAY_STATUS_OK" id="Printer19Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer19Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer19Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer19Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer19DataTimestamp">9:46:14 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer20Name">Library - Hunt 2 B&amp;W</td>
+<td class="printer_stoplight" id="Printer20Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer20StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer20DisplayText"></td>
+<td class="printer_status capitalize" id="Printer20Status"></td>
+<td class="printer_tray_status" id="Printer20TrayStatus"><span class="TRAY_STATUS_OK" id="Printer20Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer20Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer20Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer20Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer20DataTimestamp">9:45:33 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer21Name">Library - Hunt 3 B&amp;W</td>
+<td class="printer_stoplight" id="Printer21Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer21StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer21DisplayText"></td>
+<td class="printer_status capitalize" id="Printer21Status"></td>
+<td class="printer_tray_status" id="Printer21TrayStatus"><span class="TRAY_STATUS_OK" id="Printer21Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer21Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer21Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer21Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer21DataTimestamp">9:45:33 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer22Name">Library - Hunt 4 Arts B&amp;W</td>
+<td class="printer_stoplight" id="Printer22Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer22StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer22DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer22Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer22TrayStatus"><span class="TRAY_STATUS_OK" id="Printer22Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer22Tray3Status">ok</span> <span class="TRAY_STATUS_LOW" id="Printer22Tray4Status">low</span> <span class="TRAY_STATUS_OK" id="Printer22Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer22DataTimestamp">9:45:33 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer23Name">Library - Hunt 4 Arts Color</td>
+<td class="printer_stoplight" id="Printer23Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer23StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer23DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer23Status"></td>
+<td class="printer_tray_status" id="Printer23TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer23Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer23DataTimestamp">9:46:55 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer24Name">Library - Mellon B&amp;W</td>
+<td class="printer_stoplight" id="Printer24Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer24StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer24DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer24Status"></td>
+<td class="printer_tray_status" id="Printer24TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer24Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer24DataTimestamp">9:47:35 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer25Name">Library - Mellon Color</td>
+<td class="printer_stoplight" id="Printer25Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer25StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer25DisplayText"></td>
+<td class="printer_status capitalize" id="Printer25Status"></td>
+<td class="printer_tray_status" id="Printer25TrayStatus"><span class="TRAY_STATUS_OK" id="Printer25Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer25Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer25Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer25Tray5Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer25Tray6Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer25DataTimestamp">9:45:33 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer26Name">Library - Sorrells 1 B&amp;W</td>
+<td class="printer_stoplight" id="Printer26Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer26StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer26DisplayText"></td>
+<td class="printer_status capitalize" id="Printer26Status"></td>
+<td class="printer_tray_status" id="Printer26TrayStatus"><span class="TRAY_STATUS_OK" id="Printer26Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer26Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer26Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer26Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer26DataTimestamp">9:47:37 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer27Name">Library - Sorrells 2 B&amp;W</td>
+<td class="printer_stoplight" id="Printer27Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer27StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer27DisplayText"></td>
+<td class="printer_status capitalize" id="Printer27Status"></td>
+<td class="printer_tray_status" id="Printer27TrayStatus"><span class="TRAY_STATUS_OK" id="Printer27Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer27Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer27Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer27Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer27DataTimestamp">9:44:47 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer28Name">Library - Sorrells 3 Color</td>
+<td class="printer_stoplight" id="Printer28Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer28StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer28DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer28Status"></td>
+<td class="printer_tray_status" id="Printer28TrayStatus"><span class="TRAY_STATUS_OK" id="Printer28Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer28Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer28Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer28Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer28DataTimestamp">9:44:47 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer50Name">MSCF - B&amp;W 1 - Hallway outside GSIA 139</td>
+<td class="printer_stoplight" id="Printer50Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer50StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer50DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer50Status"></td>
+<td class="printer_tray_status" id="Printer50TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer50Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer50DataTimestamp">9:44:47 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer51Name">MSCF - B&amp;W 2 - GSIA 132</td>
+<td class="printer_stoplight" id="Printer51Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer51StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer51DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer51Status"></td>
+<td class="printer_tray_status" id="Printer51TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer51Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer51DataTimestamp">9:50:42 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer33Name">SCS - B&amp;W - Gates Hall Third Floor</td>
+<td class="printer_stoplight" id="Printer33Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer33StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer33DisplayText"></td>
+<td class="printer_status capitalize" id="Printer33Status"></td>
+<td class="printer_tray_status" id="Printer33TrayStatus"><span class="TRAY_STATUS_OK" id="Printer33Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer33Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer33Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer33Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer33DataTimestamp">9:47:37 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer34Name">SCS - B&amp;W - Gates Hall Fifth Floor</td>
+<td class="printer_stoplight" id="Printer34Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer34StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer34DisplayText"></td>
+<td class="printer_status capitalize" id="Printer34Status"></td>
+<td class="printer_tray_status" id="Printer34TrayStatus"><span class="TRAY_STATUS_OK" id="Printer34Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer34Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer34Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer34Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer34DataTimestamp">9:47:37 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer52Name">Tepper - B&amp;W 1 - Tepper Quad near Room 2202</td>
+<td class="printer_stoplight" id="Printer52Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer52StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer52DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer52Status"></td>
+<td class="printer_tray_status" id="Printer52TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer52Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer52DataTimestamp">9:51:22 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer53Name">Tepper - B&amp;W 2 - Tepper Quad near Room 2104</td>
+<td class="printer_stoplight" id="Printer53Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer53StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer53DisplayText"></td>
+<td class="printer_status capitalize" id="Printer53Status"></td>
+<td class="printer_tray_status" id="Printer53TrayStatus"><span class="TRAY_STATUS_OK" id="Printer53Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer53Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer53DataTimestamp">9:51:22 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer57Name">Tepper - B&amp;W 3 - Tepper Quad near Room 3805</td>
+<td class="printer_stoplight" id="Printer57Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer57StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer57DisplayText"></td>
+<td class="printer_status capitalize" id="Printer57Status"></td>
+<td class="printer_tray_status" id="Printer57TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer57Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer57Tray3Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer57Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer57Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer57DataTimestamp">9:47:37 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer58Name">Tepper - B&amp;W 4 - Tepper Quad across From Accelerate </td>
+<td class="printer_stoplight" id="Printer58Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer58StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer58DisplayText"></td>
+<td class="printer_status capitalize" id="Printer58Status"></td>
+<td class="printer_tray_status" id="Printer58TrayStatus"><span class="TRAY_STATUS_OK" id="Printer58Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer58Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer58DataTimestamp">9:47:37 PM</td>
+</tr>
+<tr class="epi-rowOdd">
+<td class="printer_name" id="Printer59Name">Tepper - B&amp;W 5 - Tepper Quad near MBA Quiet Area</td>
+<td class="printer_stoplight" id="Printer59Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer59StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer59DisplayText"></td>
+<td class="printer_status capitalize" id="Printer59Status"></td>
+<td class="printer_tray_status" id="Printer59TrayStatus"><span class="TRAY_STATUS_OK" id="Printer59Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer59Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer59DataTimestamp">9:47:38 PM</td>
+</tr>
+<tr>
+<td class="printer_name" id="Printer60Name">Tepper - B&amp;W 6 - Tepper Quad near Accelerate</td>
+<td class="printer_stoplight" id="Printer60Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer60StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer60DisplayText"></td>
+<td class="printer_status capitalize" id="Printer60Status"></td>
+<td class="printer_tray_status" id="Printer60TrayStatus"><span class="TRAY_STATUS_OK" id="Printer60Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer60Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer60DataTimestamp">9:47:38 PM</td>
+</tr>
+</table>
+<hr/>
+    If a printer is jammed, out of toner, or displaying an error, refer to the support contact listed in the table at the link below:</td></tr>, <tr>
+<th scope="col">Printer</th>
+<th scope="col"> </th>
+<th scope="col">LCD Message</th>
+<th scope="col">Status</th>
+<th scope="col">Tray Status</th>
+<th scope="col">As Of</th>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer35Name">CEE - B&amp;W 1 - Porter Hall 118A</td>
+<td class="printer_stoplight" id="Printer35Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer35StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer35DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer35Status"></td>
+<td class="printer_tray_status" id="Printer35TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer35Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer35DataTimestamp">9:48:18 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer36Name">CEE - Color 1 - Porter Hall 118A</td>
+<td class="printer_stoplight" id="Printer36Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer36StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer36DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer36Status"></td>
+<td class="printer_tray_status" id="Printer36TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer36Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer36DataTimestamp">9:52:03 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer37Name">CEE - B&amp;W 2 - Porter Hall A7</td>
+<td class="printer_stoplight" id="Printer37Stoplight"><img alt="YELLOW" class="STOPLIGHT_YELLOW" id="Printer37StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/yield.gif"/></td>
+<td class="printer_LCD_text" id="Printer37DisplayText">Maintenance Kit very low</td>
+<td class="printer_status capitalize" id="Printer37Status">ready to print</td>
+<td class="printer_tray_status" id="Printer37TrayStatus"><span class="TRAY_STATUS_OK" id="Printer37Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer37Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer37DataTimestamp">9:52:04 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer38Name">CEE - Color 2 - Porter Hall A7</td>
+<td class="printer_stoplight" id="Printer38Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer38StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer38DisplayText">59.F0 ERROR</td>
+<td class="printer_status capitalize" id="Printer38Status">ready to print</td>
+<td class="printer_tray_status" id="Printer38TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer38Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer38Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer38DataTimestamp">9:52:04 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer39Name">CEE - B&amp;W 3 - Wean Hall 3503</td>
+<td class="printer_stoplight" id="Printer39Stoplight"><img alt="YELLOW" class="STOPLIGHT_YELLOW" id="Printer39StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/yield.gif"/></td>
+<td class="printer_LCD_text" id="Printer39DisplayText">Black Cartridge low</td>
+<td class="printer_status capitalize" id="Printer39Status">toner/ink low</td>
+<td class="printer_tray_status" id="Printer39TrayStatus"><span class="TRAY_STATUS_OK" id="Printer39Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer39Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer39DataTimestamp">9:52:04 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer40Name">CEE -  Color 3 - Wean Hall 3503</td>
+<td class="printer_stoplight" id="Printer40Stoplight"><img alt="YELLOW" class="STOPLIGHT_YELLOW" id="Printer40StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/yield.gif"/></td>
+<td class="printer_LCD_text" id="Printer40DisplayText">TRAY 3 EMPTY</td>
+<td class="printer_status capitalize" id="Printer40Status">ready to print</td>
+<td class="printer_tray_status" id="Printer40TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer40Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer40Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer40DataTimestamp">9:52:04 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer32Name">ChemE - B&amp;W - Doherty 1270</td>
+<td class="printer_stoplight" id="Printer32Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer32StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer32DisplayText">Error with Job (???024?????????966???)</td>
+<td class="printer_status capitalize" id="Printer32Status"></td>
+<td class="printer_tray_status" id="Printer32TrayStatus"><span class="TRAY_STATUS_OK" id="Printer32Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer32Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer32Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer32Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer32DataTimestamp">9:44:47 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer7Name">Computer Labs - Baker 2 B&amp;W</td>
+<td class="printer_stoplight" id="Printer7Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer7StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer7DisplayText"></td>
+<td class="printer_status capitalize" id="Printer7Status"></td>
+<td class="printer_tray_status" id="Printer7TrayStatus"><span class="TRAY_STATUS_OK" id="Printer7Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer7Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer7Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer7Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer7DataTimestamp">9:44:48 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer8Name">Computer Labs - CFA B&amp;W</td>
+<td class="printer_stoplight" id="Printer8Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer8StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer8DisplayText"></td>
+<td class="printer_status capitalize" id="Printer8Status"></td>
+<td class="printer_tray_status" id="Printer8TrayStatus"><span class="TRAY_STATUS_OK" id="Printer8Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer8Tray3Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer8Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer8Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer8DataTimestamp">9:44:48 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer17Name">Computer Labs - CFA Color</td>
+<td class="printer_stoplight" id="Printer17Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer17StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer17DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer17Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer17TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer17Tray2Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer17Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer17Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer17Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer17DataTimestamp">9:46:14 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer10Name">Computer Labs - Cyert B&amp;W</td>
+<td class="printer_stoplight" id="Printer10Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer10StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer10DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer10Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer10TrayStatus"><span class="TRAY_STATUS_OK" id="Printer10Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer10Tray3Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer10Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer10Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer10DataTimestamp">9:44:48 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer11Name">Computer Labs - Morewood B&amp;W</td>
+<td class="printer_stoplight" id="Printer11Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer11StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer11DisplayText"></td>
+<td class="printer_status capitalize" id="Printer11Status"></td>
+<td class="printer_tray_status" id="Printer11TrayStatus"><span class="TRAY_STATUS_OK" id="Printer11Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer11Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer11Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer11Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer11DataTimestamp">9:44:49 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer12Name">Computer Labs - UC 1 B&amp;W</td>
+<td class="printer_stoplight" id="Printer12Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer12StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer12DisplayText"></td>
+<td class="printer_status capitalize" id="Printer12Status"></td>
+<td class="printer_tray_status" id="Printer12TrayStatus"><span class="TRAY_STATUS_OK" id="Printer12Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer12Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer12Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer12DataTimestamp">9:44:50 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer13Name">Computer Labs - UC 2 B&amp;W</td>
+<td class="printer_stoplight" id="Printer13Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer13StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer13DisplayText"></td>
+<td class="printer_status capitalize" id="Printer13Status"></td>
+<td class="printer_tray_status" id="Printer13TrayStatus"><span class="TRAY_STATUS_OK" id="Printer13Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer13Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer13Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer13Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer13DataTimestamp">9:44:50 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer14Name">Computer Labs - Wean B&amp;W</td>
+<td class="printer_stoplight" id="Printer14Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer14StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer14DisplayText"></td>
+<td class="printer_status capitalize" id="Printer14Status"></td>
+<td class="printer_tray_status" id="Printer14TrayStatus"><span class="TRAY_STATUS_OK" id="Printer14Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer14Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer14Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer14Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer14DataTimestamp">9:44:50 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer15Name">Computer Labs - Wean Color</td>
+<td class="printer_stoplight" id="Printer15Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer15StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer15DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer15Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer15TrayStatus"><span class="TRAY_STATUS_OK" id="Printer15Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer15Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer15Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer15Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer15DataTimestamp">9:44:50 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer16Name">Computer Labs - West Wing B&amp;W</td>
+<td class="printer_stoplight" id="Printer16Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer16StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer16DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer16Status"></td>
+<td class="printer_tray_status" id="Printer16TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer16Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer16DataTimestamp">9:46:14 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer41Name">ECE - B&amp;W 1 - Hamerschlag Hall A104</td>
+<td class="printer_stoplight" id="Printer41Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer41StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer41DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer41Status">ready to print</td>
+<td class="printer_tray_status" id="Printer41TrayStatus"><span class="TRAY_STATUS_OK" id="Printer41Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer41Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer41DataTimestamp">9:52:04 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer42Name">ECE - B&amp;W 2 - Hamerschlag Hall A101</td>
+<td class="printer_stoplight" id="Printer42Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer42StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer42DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer42Status">ready to print</td>
+<td class="printer_tray_status" id="Printer42TrayStatus"><span class="TRAY_STATUS_OK" id="Printer42Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer42Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer42DataTimestamp">9:52:04 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer43Name">ECE - B&amp;W 3 - Hamerschlag Hall 1303</td>
+<td class="printer_stoplight" id="Printer43Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer43StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer43DisplayText">Resend</td>
+<td class="printer_status capitalize" id="Printer43Status">ready to print</td>
+<td class="printer_tray_status" id="Printer43TrayStatus"><span class="TRAY_STATUS_OK" id="Printer43Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer43Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer43DataTimestamp">9:52:05 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer44Name">ECE - B&amp;W 4 - Hamerschlag Hall 1310</td>
+<td class="printer_stoplight" id="Printer44Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer44StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer44DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer44Status">ready to print</td>
+<td class="printer_tray_status" id="Printer44TrayStatus"><span class="TRAY_STATUS_OK" id="Printer44Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer44Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer44Tray4Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer44DataTimestamp">9:52:05 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer54Name">ECE - B&amp;W 5 - Masters Lounge in Porter Hall</td>
+<td class="printer_stoplight" id="Printer54Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer54StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer54DisplayText">Sleep mode on</td>
+<td class="printer_status capitalize" id="Printer54Status">ready to print</td>
+<td class="printer_tray_status" id="Printer54TrayStatus"><span class="TRAY_STATUS_OK" id="Printer54Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer54Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer54DataTimestamp">9:51:23 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer55Name">ECE - B&amp;W 6 - Porter Hall B-Level</td>
+<td class="printer_stoplight" id="Printer55Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer55StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer55DisplayText">Sleep mode on</td>
+<td class="printer_status capitalize" id="Printer55Status">ready to print</td>
+<td class="printer_tray_status" id="Printer55TrayStatus"><span class="TRAY_STATUS_OK" id="Printer55Tray2Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer55DataTimestamp">9:51:23 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer56Name">ECE - Color 6 - Porter Hall B-Level</td>
+<td class="printer_stoplight" id="Printer56Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer56StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer56DisplayText">Depleted</td>
+<td class="printer_status capitalize" id="Printer56Status"></td>
+<td class="printer_tray_status" id="Printer56TrayStatus"><span class="TRAY_STATUS_OK" id="Printer56Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer56Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer56DataTimestamp">9:50:01 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer46Name">Heinz - B&amp;W 1 - Hamburg Hall A200</td>
+<td class="printer_stoplight" id="Printer46Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer46StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer46DisplayText"></td>
+<td class="printer_status capitalize" id="Printer46Status"></td>
+<td class="printer_tray_status" id="Printer46TrayStatus"><span class="TRAY_STATUS_OK" id="Printer46Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer46Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer46Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer46DataTimestamp">9:52:05 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer47Name">Heinz - B&amp;W 2 - Hamburg Hall A002A</td>
+<td class="printer_stoplight" id="Printer47Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer47StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer47DisplayText"></td>
+<td class="printer_status capitalize" id="Printer47Status"></td>
+<td class="printer_tray_status" id="Printer47TrayStatus"><span class="TRAY_STATUS_OK" id="Printer47Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer47Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer47Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer47DataTimestamp">9:52:05 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer48Name">Heinz - B&amp;W 3 - Hamburg Hall A102</td>
+<td class="printer_stoplight" id="Printer48Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer48StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer48DisplayText"></td>
+<td class="printer_status capitalize" id="Printer48Status"></td>
+<td class="printer_tray_status" id="Printer48TrayStatus"><span class="TRAY_STATUS_OK" id="Printer48Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer48Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer48Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer48DataTimestamp">9:52:06 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer49Name">Heinz - B&amp;W 4 - Hamburg Hall 2004</td>
+<td class="printer_stoplight" id="Printer49Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer49StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer49DisplayText"></td>
+<td class="printer_status capitalize" id="Printer49Status"></td>
+<td class="printer_tray_status" id="Printer49TrayStatus"><span class="TRAY_STATUS_OK" id="Printer49Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer49Tray3Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer49Tray4Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer49DataTimestamp">9:52:06 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer1Name">Housing - Donner B&amp;W</td>
+<td class="printer_stoplight" id="Printer1Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer1StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer1DisplayText"></td>
+<td class="printer_status capitalize" id="Printer1Status"></td>
+<td class="printer_tray_status" id="Printer1TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer1Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer1Tray3Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer1Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer1Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer1DataTimestamp">9:44:50 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer2Name">Housing - Mudge B&amp;W</td>
+<td class="printer_stoplight" id="Printer2Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer2StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer2DisplayText"></td>
+<td class="printer_status capitalize" id="Printer2Status"></td>
+<td class="printer_tray_status" id="Printer2TrayStatus"><span class="TRAY_STATUS_OK" id="Printer2Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer2Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer2Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer2Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer2DataTimestamp">9:44:51 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer3Name">Housing - Res5 B&amp;W</td>
+<td class="printer_stoplight" id="Printer3Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer3StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer3DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer3Status"></td>
+<td class="printer_tray_status" id="Printer3TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer3Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer3DataTimestamp">9:45:32 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer4Name">Housing - The Hill B&amp;W</td>
+<td class="printer_stoplight" id="Printer4Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer4StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer4DisplayText"></td>
+<td class="printer_status capitalize" id="Printer4Status"></td>
+<td class="printer_tray_status" id="Printer4TrayStatus"><span class="TRAY_STATUS_OK" id="Printer4Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer4Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer4Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer4Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer4DataTimestamp">9:47:36 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer45Name">INI - B&amp;W 1 - INI Second Floor</td>
+<td class="printer_stoplight" id="Printer45Stoplight"><img alt="YELLOW" class="STOPLIGHT_YELLOW" id="Printer45StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/yield.gif"/></td>
+<td class="printer_LCD_text" id="Printer45DisplayText">Sleep mode on</td>
+<td class="printer_status capitalize" id="Printer45Status">paper out</td>
+<td class="printer_tray_status" id="Printer45TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer45Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer45Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer45DataTimestamp">9:52:05 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer31Name">INI - B&amp;W 2 - INI A-Level</td>
+<td class="printer_stoplight" id="Printer31Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer31StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer31DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer31Status">ready to print</td>
+<td class="printer_tray_status" id="Printer31TrayStatus"><span class="TRAY_STATUS_OK" id="Printer31Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer31Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer31DataTimestamp">9:44:47 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer29Name">INI - B&amp;W B - INI A-Level</td>
+<td class="printer_stoplight" id="Printer29Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer29StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer29DisplayText">Ready</td>
+<td class="printer_status capitalize" id="Printer29Status">offline or intervention needed</td>
+<td class="printer_tray_status" id="Printer29TrayStatus"><span class="TRAY_STATUS_OK" id="Printer29Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer29Tray3Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer29DataTimestamp">9:44:47 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer18Name">Library - Hunt 1 Ref 1 Color</td>
+<td class="printer_stoplight" id="Printer18Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer18StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer18DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer18Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer18TrayStatus"><span class="TRAY_STATUS_OK" id="Printer18Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer18Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer18Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer18Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer18DataTimestamp">9:46:14 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer19Name">Library - Hunt 1 Ref 4 B&amp;W</td>
+<td class="printer_stoplight" id="Printer19Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer19StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer19DisplayText"></td>
+<td class="printer_status capitalize" id="Printer19Status"></td>
+<td class="printer_tray_status" id="Printer19TrayStatus"><span class="TRAY_STATUS_OK" id="Printer19Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer19Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer19Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer19Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer19DataTimestamp">9:46:14 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer20Name">Library - Hunt 2 B&amp;W</td>
+<td class="printer_stoplight" id="Printer20Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer20StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer20DisplayText"></td>
+<td class="printer_status capitalize" id="Printer20Status"></td>
+<td class="printer_tray_status" id="Printer20TrayStatus"><span class="TRAY_STATUS_OK" id="Printer20Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer20Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer20Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer20Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer20DataTimestamp">9:45:33 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer21Name">Library - Hunt 3 B&amp;W</td>
+<td class="printer_stoplight" id="Printer21Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer21StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer21DisplayText"></td>
+<td class="printer_status capitalize" id="Printer21Status"></td>
+<td class="printer_tray_status" id="Printer21TrayStatus"><span class="TRAY_STATUS_OK" id="Printer21Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer21Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer21Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer21Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer21DataTimestamp">9:45:33 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer22Name">Library - Hunt 4 Arts B&amp;W</td>
+<td class="printer_stoplight" id="Printer22Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer22StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer22DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer22Status">NoSuchInstance</td>
+<td class="printer_tray_status" id="Printer22TrayStatus"><span class="TRAY_STATUS_OK" id="Printer22Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer22Tray3Status">ok</span> <span class="TRAY_STATUS_LOW" id="Printer22Tray4Status">low</span> <span class="TRAY_STATUS_OK" id="Printer22Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer22DataTimestamp">9:45:33 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer23Name">Library - Hunt 4 Arts Color</td>
+<td class="printer_stoplight" id="Printer23Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer23StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer23DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer23Status"></td>
+<td class="printer_tray_status" id="Printer23TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer23Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer23DataTimestamp">9:46:55 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer24Name">Library - Mellon B&amp;W</td>
+<td class="printer_stoplight" id="Printer24Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer24StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer24DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer24Status"></td>
+<td class="printer_tray_status" id="Printer24TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer24Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer24DataTimestamp">9:47:35 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer25Name">Library - Mellon Color</td>
+<td class="printer_stoplight" id="Printer25Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer25StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer25DisplayText"></td>
+<td class="printer_status capitalize" id="Printer25Status"></td>
+<td class="printer_tray_status" id="Printer25TrayStatus"><span class="TRAY_STATUS_OK" id="Printer25Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer25Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer25Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer25Tray5Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer25Tray6Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer25DataTimestamp">9:45:33 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer26Name">Library - Sorrells 1 B&amp;W</td>
+<td class="printer_stoplight" id="Printer26Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer26StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer26DisplayText"></td>
+<td class="printer_status capitalize" id="Printer26Status"></td>
+<td class="printer_tray_status" id="Printer26TrayStatus"><span class="TRAY_STATUS_OK" id="Printer26Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer26Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer26Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer26Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer26DataTimestamp">9:47:37 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer27Name">Library - Sorrells 2 B&amp;W</td>
+<td class="printer_stoplight" id="Printer27Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer27StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer27DisplayText"></td>
+<td class="printer_status capitalize" id="Printer27Status"></td>
+<td class="printer_tray_status" id="Printer27TrayStatus"><span class="TRAY_STATUS_OK" id="Printer27Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer27Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer27Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer27Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer27DataTimestamp">9:44:47 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer28Name">Library - Sorrells 3 Color</td>
+<td class="printer_stoplight" id="Printer28Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer28StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer28DisplayText">Select Services to scan your job.</td>
+<td class="printer_status capitalize" id="Printer28Status"></td>
+<td class="printer_tray_status" id="Printer28TrayStatus"><span class="TRAY_STATUS_OK" id="Printer28Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer28Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer28Tray4Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer28Tray5Status">ok</span> </td>
+<td class="printer_status_timestamp" id="Printer28DataTimestamp">9:44:47 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer50Name">MSCF - B&amp;W 1 - Hallway outside GSIA 139</td>
+<td class="printer_stoplight" id="Printer50Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer50StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer50DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer50Status"></td>
+<td class="printer_tray_status" id="Printer50TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer50Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer50DataTimestamp">9:44:47 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer51Name">MSCF - B&amp;W 2 - GSIA 132</td>
+<td class="printer_stoplight" id="Printer51Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer51StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer51DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer51Status"></td>
+<td class="printer_tray_status" id="Printer51TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer51Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer51DataTimestamp">9:50:42 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer33Name">SCS - B&amp;W - Gates Hall Third Floor</td>
+<td class="printer_stoplight" id="Printer33Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer33StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer33DisplayText"></td>
+<td class="printer_status capitalize" id="Printer33Status"></td>
+<td class="printer_tray_status" id="Printer33TrayStatus"><span class="TRAY_STATUS_OK" id="Printer33Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer33Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer33Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer33Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer33DataTimestamp">9:47:37 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer34Name">SCS - B&amp;W - Gates Hall Fifth Floor</td>
+<td class="printer_stoplight" id="Printer34Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer34StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer34DisplayText"></td>
+<td class="printer_status capitalize" id="Printer34Status"></td>
+<td class="printer_tray_status" id="Printer34TrayStatus"><span class="TRAY_STATUS_OK" id="Printer34Tray2Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer34Tray3Status">ok</span> <span class="TRAY_STATUS_OK" id="Printer34Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer34Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer34DataTimestamp">9:47:37 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer52Name">Tepper - B&amp;W 1 - Tepper Quad near Room 2202</td>
+<td class="printer_stoplight" id="Printer52Stoplight"><img alt="RED" class="STOPLIGHT_RED" id="Printer52StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/stop.gif"/></td>
+<td class="printer_LCD_text" id="Printer52DisplayText">No Response</td>
+<td class="printer_status capitalize" id="Printer52Status"></td>
+<td class="printer_tray_status" id="Printer52TrayStatus"><span class="TRAY_STATUS_UNKNOWN" id="Printer52Tray0Status">unknown</span> </td>
+<td class="printer_status_timestamp" id="Printer52DataTimestamp">9:51:22 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer53Name">Tepper - B&amp;W 2 - Tepper Quad near Room 2104</td>
+<td class="printer_stoplight" id="Printer53Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer53StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer53DisplayText"></td>
+<td class="printer_status capitalize" id="Printer53Status"></td>
+<td class="printer_tray_status" id="Printer53TrayStatus"><span class="TRAY_STATUS_OK" id="Printer53Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer53Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer53DataTimestamp">9:51:22 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer57Name">Tepper - B&amp;W 3 - Tepper Quad near Room 3805</td>
+<td class="printer_stoplight" id="Printer57Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer57StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer57DisplayText"></td>
+<td class="printer_status capitalize" id="Printer57Status"></td>
+<td class="printer_tray_status" id="Printer57TrayStatus"><span class="TRAY_STATUS_EMPTY" id="Printer57Tray2Status">empty</span> <span class="TRAY_STATUS_EMPTY" id="Printer57Tray3Status">empty</span> <span class="TRAY_STATUS_OK" id="Printer57Tray4Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer57Tray5Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer57DataTimestamp">9:47:37 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer58Name">Tepper - B&amp;W 4 - Tepper Quad across From Accelerate </td>
+<td class="printer_stoplight" id="Printer58Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer58StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer58DisplayText"></td>
+<td class="printer_status capitalize" id="Printer58Status"></td>
+<td class="printer_tray_status" id="Printer58TrayStatus"><span class="TRAY_STATUS_OK" id="Printer58Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer58Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer58DataTimestamp">9:47:37 PM</td>
+</tr>, <tr class="epi-rowOdd">
+<td class="printer_name" id="Printer59Name">Tepper - B&amp;W 5 - Tepper Quad near MBA Quiet Area</td>
+<td class="printer_stoplight" id="Printer59Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer59StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer59DisplayText"></td>
+<td class="printer_status capitalize" id="Printer59Status"></td>
+<td class="printer_tray_status" id="Printer59TrayStatus"><span class="TRAY_STATUS_OK" id="Printer59Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer59Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer59DataTimestamp">9:47:38 PM</td>
+</tr>, <tr>
+<td class="printer_name" id="Printer60Name">Tepper - B&amp;W 6 - Tepper Quad near Accelerate</td>
+<td class="printer_stoplight" id="Printer60Stoplight"><img alt="GREEN" class="STOPLIGHT_GREEN" id="Printer60StoplightImage" src="https://tef.andrew.cmu.edu/PrinterStats/Content/go.gif"/></td>
+<td class="printer_LCD_text" id="Printer60DisplayText"></td>
+<td class="printer_status capitalize" id="Printer60Status"></td>
+<td class="printer_tray_status" id="Printer60TrayStatus"><span class="TRAY_STATUS_OK" id="Printer60Tray2Status">ok</span> <span class="TRAY_STATUS_EMPTY" id="Printer60Tray3Status">empty</span> </td>
+<td class="printer_status_timestamp" id="Printer60DataTimestamp">9:47:38 PM</td>
+</tr>]
