@@ -12,7 +12,7 @@ class Printer:
         self.as_of = as_of
 
         self.color = "Color" in name
-    
+
     def time_diff(self):
         us_east = pytz.timezone("US/Eastern")
         now = datetime.now().astimezone()

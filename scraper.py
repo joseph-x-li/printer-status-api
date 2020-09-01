@@ -1,28 +1,34 @@
 import requests, bs4
 from printer import Printer
 
-url = "https://clustersweb.andrew.cmu.edu/PrinterStats/All/"
 
-content = requests.get(url).content
+def main():
+    url = "https://clustersweb.andrew.cmu.edu/PrinterStats/All/"
 
-soup = bs4.BeautifulSoup(content, features="html.parser")
+    content = requests.get(url).content
 
-table = soup.findAll("table")[1].findAll("tr")
+    soup = bs4.BeautifulSoup(content, features="html.parser")
 
-col_tag = ["name", "signal", "lcd_message", "status", "tray_status", "as_of"]
+    table = soup.findAll("table")[1].findAll("tr")
 
-printers = []
+    col_tag = ["name", "signal", "lcd_message", "status", "tray_status", "as_of"]
 
-for row in table[2:]:
-    columns = row.find_all("td")
-    args = {}
-    for c, tag in zip(columns, col_tag):
-        if tag == "signal":
-            data = c.img["alt"]
-        else:
-            data = c.get_text()
-        args[tag] = data
-    
-    printers.append(Printer(**args))
+    printers = []
 
-printers[0].time_diff()
+    for row in table[2:]:
+        columns = row.find_all("td")
+        args = {}
+        for c, tag in zip(columns, col_tag):
+            if tag == "signal":
+                data = c.img["alt"]
+            else:
+                data = c.get_text()
+            args[tag] = data
+
+        printers.append(Printer(**args))
+
+    printers[0].time_diff()
+
+
+if __name__ == "__main__":
+    main()
