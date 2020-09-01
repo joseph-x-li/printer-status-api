@@ -27,7 +27,7 @@ def main():
 
         printers.append(Printer(**args))
 
-    printers[0].time_diff()
+    return printers
 
 
 if __name__ == "__main__":
