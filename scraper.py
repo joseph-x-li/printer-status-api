@@ -17,15 +17,15 @@ def main():
 
     for row in table[2:]:
         columns = row.find_all("td")
-        args = {}
+        kwargs = {}
         for c, tag in zip(columns, col_tag):
             if tag == "signal":
                 data = c.img["alt"]
             else:
                 data = c.get_text()
-            args[tag] = data
+            kwargs[tag] = data
 
-        printers.append(Printer(**args))
+        printers.append(Printer(**kwargs))
 
     return printers
 
